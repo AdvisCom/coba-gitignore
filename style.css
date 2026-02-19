@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;   
+}
+div {
+    margin: 25px 50px;
+}
+div h1 {
+    padding: 25px 0;
+}
+div button {
+    padding: 10px;
+    background: blueviolet;
+    border: 2px solid blueviolet;
+    border: 3px solid ;
+    border-radius: 5px;
+    color: whitesmoke;
+    cursor: pointer;
+    transition: ease-in-out 700ms;
+}
+div button:hover {
+    border-radius: 15px;
+    margin: -3px 0;
+}
+
